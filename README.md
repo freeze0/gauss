@@ -1,4 +1,3 @@
-# gauss
 import java.io.*;
 class GFG
 {
